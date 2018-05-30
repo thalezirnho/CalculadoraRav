@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RAV</string>
+
+    <string name="mdr">Taxas de MDR:</string>
+
+    <string name="c_vista">Crédito a Vista:</string>
+
+    <string name="c_2a6">Crédito de 2 a 6:</string>
+
+    <string name="c_7a12">Crédito de 7 a 12:</string>
+
+    <string name="rav">Taxa de Rav:</string>
+
+    <string name="montante">Valor da Venda:</string>
+
+    <string name="parcelas">Parcelas:</string>
+
+    <string name="porcentagem">%</string>
+
+    <string name="reais">R$</string>
+
+</resources>
